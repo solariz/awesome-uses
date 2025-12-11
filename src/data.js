@@ -19529,6 +19529,25 @@ module.exports = [
     ],
   },
   {
+    name: 'Marco Goetze',
+    description: 'IT-Project-Manager, Network Engineer, general Tech Nerd and Gamer from Germany',
+    url: 'https://solariz.de/uses',
+    twitter: '@solariz',
+    emoji: '🚀',
+    country: '🇩🇪',
+    computer: 'linux',
+    phone: 'android',
+    tags: [
+      'Project-Manager',
+      'Network',
+      'InfoSec',
+      'Network Engineer',
+      'Linux',
+      'Consulting',
+      'Bookmarks',
+    ],
+  },  
+  {
     name: 'Jesús Leganés-Combarro "piranna"',
     description:
       'Passionate computers engineer and ex-PhD. candidate in Computers Engineering. Proud advocate of Open Source, standards, specifications, and best practices.',
